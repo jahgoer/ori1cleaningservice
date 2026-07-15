@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ori1cleaningservice.com/sitemap.xml
